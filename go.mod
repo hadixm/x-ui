@@ -15,7 +15,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil v3.21.3+incompatible
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
-	github.com/xtls/xray-core v1.4.2
+	github.com/xtls/xray-core v1.6.5
 	go.uber.org/atomic v1.7.0
 	golang.org/x/sys v0.0.0-20210511113859-b0526f3d8744 // indirect
 	golang.org/x/text v0.3.6
